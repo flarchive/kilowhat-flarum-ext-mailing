@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of kilowhat/flarum-ext-mailing.** Not for installation: use [Packagist](https://packagist.org/packages/kilowhat/flarum-ext-mailing) or the [upstream repository](https://github.com/kilowhat/flarum-ext-mailing).
 
-**0** versions archived · Latest: [`1.1.0`](https://github.com/flarchive/kilowhat-flarum-ext-mailing/tree/archive/v1.1.0) · License: `MIT` · Flarum: `^1.7`
+**13** versions archived · Latest: [`1.1.0`](https://github.com/flarchive/kilowhat-flarum-ext-mailing/tree/archive/v1.1.0) · License: `MIT` · Flarum: `^1.7`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2019-06-21 | `>= 0.1.0-beta.8 < 0.1.0-beta.9` | [Browse](https://github.com/flarchive/kilowhat-flarum-ext-mailing/tree/archive/v0.1.0) |
+| `0.1.0-beta.1` | 2019-05-01 | `0.1.0-beta.8.1` | [Browse](https://github.com/flarchive/kilowhat-flarum-ext-mailing/tree/archive/v0.1.0-beta.1) |
+| `0.1.1` | 2019-07-05 | `>= 0.1.0-beta.8 < 0.1.0-beta.10` | [Browse](https://github.com/flarchive/kilowhat-flarum-ext-mailing/tree/archive/v0.1.1) |
+| `0.1.2` | 2019-09-24 | `>=0.1.0-beta.8 <0.1.0-beta.11` | [Browse](https://github.com/flarchive/kilowhat-flarum-ext-mailing/tree/archive/v0.1.2) |
+| `0.2.0` | 2019-10-28 | `>=0.1.0-beta.8 <0.1.0-beta.11` | [Browse](https://github.com/flarchive/kilowhat-flarum-ext-mailing/tree/archive/v0.2.0) |
+| `0.2.1` | 2019-11-28 | `>=0.1.0-beta.8 <0.1.0-beta.12` | [Browse](https://github.com/flarchive/kilowhat-flarum-ext-mailing/tree/archive/v0.2.1) |
+| `0.2.2` | 2020-03-04 | `>=0.1.0-beta.8 <0.1.0-beta.13` | [Browse](https://github.com/flarchive/kilowhat-flarum-ext-mailing/tree/archive/v0.2.2) |
+| `0.2.3` | 2020-05-06 | `>=0.1.0-beta.8 <0.1.0-beta.14` | [Browse](https://github.com/flarchive/kilowhat-flarum-ext-mailing/tree/archive/v0.2.3) |
+| `0.2.4` | 2020-11-16 | `>=0.1.0-beta.8 <0.1.0-beta.14` | [Browse](https://github.com/flarchive/kilowhat-flarum-ext-mailing/tree/archive/v0.2.4) |
+| `0.3.0` | 2020-11-16 | `>=0.1.0-beta.14 <0.1.0-beta.15` | [Browse](https://github.com/flarchive/kilowhat-flarum-ext-mailing/tree/archive/v0.3.0) |
+
+[View all 13 versions](https://github.com/flarchive/kilowhat-flarum-ext-mailing/tags)
 
 Catalog entry: [packages/kilowhat-flarum-ext-mailing.json](https://github.com/flarchive/archive-index/blob/main/packages/kilowhat-flarum-ext-mailing.json)
 
